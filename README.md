@@ -1,2 +1,2 @@
 # LocalNetworkSearch
-Search the computer connecter in your local network
+Search the computers connected to your local network.
